@@ -41,7 +41,7 @@ h1 {
   height: 50px;
   border: none;
   outline: none;
-  cursor: pointer;
+  cursor: crosshair;
   user-select: none;
   touch-action: manipulation;
   outline: 10px solid rgb(var(--primary), .5);
@@ -75,7 +75,7 @@ h1 {
   align-items: center;
   font-size: 1.2rem;
   font-weight: 600;
-  font-family: inherit;
+  font-family: "Press Start 2P";
   transform: translateY(-15%);
   transition: .15s;
   color: rgb(var(--secondary));

@@ -53,7 +53,7 @@ h1 {
 }
 
 .rstbtn .back {
-  background: rgb(var(--secondary), 1);
+  background: rgb(var(--secondary));
   border-radius: 100%;
   position: absolute;
   left: 0;
@@ -63,7 +63,7 @@ h1 {
 }
 
 .rstbtn .front {
-  background: linear-gradient(0deg, rgba(var(--primary), .6) 20%, rgba(var(--primary), 1) 50%);
+  background: linear-gradient(0deg, rgba(var(--primary), .6) 20%, rgba(var(--primary)) 50%);
   box-shadow: 0 .5em 1em -0.2em rgba(var(--secondary), .5);
   border-radius: 100%;
   position: absolute;
